@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaaBuilder", "MaaBuilder\MaaBuilder.csproj", "{2A15A443-DEEA-4638-A623-CBBD7DE4BA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaaBuilder_3", "MaaBuilder\MaaBuilder_3.csproj", "{AB151CCC-CD80-4462-A463-CFE8982C378F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaaBuilder_6", "MaaBuilder\MaaBuilder_6.csproj", "{4A41B3D4-60D9-473B-B63B-9BE68DE5B8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A15A443-DEEA-4638-A623-CBBD7DE4BA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A15A443-DEEA-4638-A623-CBBD7DE4BA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A15A443-DEEA-4638-A623-CBBD7DE4BA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A15A443-DEEA-4638-A623-CBBD7DE4BA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB151CCC-CD80-4462-A463-CFE8982C378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB151CCC-CD80-4462-A463-CFE8982C378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB151CCC-CD80-4462-A463-CFE8982C378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB151CCC-CD80-4462-A463-CFE8982C378F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A41B3D4-60D9-473B-B63B-9BE68DE5B8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A41B3D4-60D9-473B-B63B-9BE68DE5B8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A41B3D4-60D9-473B-B63B-9BE68DE5B8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A41B3D4-60D9-473B-B63B-9BE68DE5B8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

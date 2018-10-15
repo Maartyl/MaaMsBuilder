@@ -68,15 +68,6 @@ wince=          set WinCE flag
         Console.WriteLine(help);
         return 0;
       }
-
-
-
-      //only for DEBUG!!!
-      if (args.Length == 0) {
-        pa["proj"] = pa.Get("proj", @"C:\Users\mchmelik\dev\prjs\JKR\Client\ByznysClient\Byznys.csproj");
-        pa["variant"] = pa.Get("variant", "tti");
-
-      }
       
 
       //TODO: args: 

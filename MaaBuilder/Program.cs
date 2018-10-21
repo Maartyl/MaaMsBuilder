@@ -110,8 +110,8 @@ wince=          set WinCE flag
       //else
       //  p.SetGlobalProperty("TargetFrameworkVersion", "4.5");
 
-      if (!args.ContainsKey("wince"))
-        p.SetGlobalProperty("TargetFrameworkVersion", "4.5");
+      //if (!args.ContainsKey("wince"))
+      //  p.SetGlobalProperty("TargetFrameworkVersion", "4.5");
 
 
       p.SetGlobalProperty("VisualStudioVersion", "14.0");
